@@ -511,6 +511,11 @@ footer {
         margin-bottom: 20px;
     }
 
+    /* Deixa a primeira foto (hero) menor no celular */
+    .hero-image .img-main {
+        max-width: 260px; 
+    }
+
     .about-grid {
         grid-template-columns: 1fr;
         text-align: center;
