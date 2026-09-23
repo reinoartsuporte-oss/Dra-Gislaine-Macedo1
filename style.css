@@ -93,7 +93,7 @@ body {
 
 .hero-grid {
     display: grid;
-    grid-template-columns: 0.9fr 1.1fr; /* No desktop: Imagem à esquerda, texto à direita */
+    grid-template-columns: 0.9fr 1.1fr;
     gap: 40px;
     align-items: center;
 }
